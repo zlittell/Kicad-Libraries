@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP BK2125HS470-T
+D Ferrite Bead 47 Ohms @ 100MHz 0805 1A 50mOhm
+K Ferrite Bead
+F ~
+$ENDCMP
+#
+#End Doc Library

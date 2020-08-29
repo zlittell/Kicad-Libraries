@@ -1,0 +1,27 @@
+EESchema-LIBRARY Version 2.4
+#encoding utf-8
+#
+# BK2125HS470-T
+#
+DEF BK2125HS470-T FB 0 0 N Y 1 F N
+F0 "FB" -25 -150 50 H V C CNN
+F1 "BK2125HS470-T" 0 150 50 H V C CNN
+F2 "Inductor_SMD:L_0805_2012Metric" 0 -70 50 H I C CNN
+F3 "" 0 0 50 V I C CNN
+F4 "Taiyo Yuden" 0 0 50 H I C CNN "Manufacturer 1 Name"
+F5 "BK2125HS470-T" 0 0 50 H I C CNN "Manufacturer 1 Part Number"
+$FPLIST
+ Inductor_*
+ L_*
+ *Ferrite*
+$ENDFPLIST
+DRAW
+P 2 0 1 0 -50 0 -51 0 N
+P 2 0 1 0 50 0 48 0 N
+P 5 0 1 0 -16 -109 -89 -67 12 109 85 66 -16 -109 N
+X ~ 1 -150 0 100 R 50 50 1 1 P
+X ~ 2 150 0 100 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+#End Library

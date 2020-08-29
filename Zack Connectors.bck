@@ -10,13 +10,4 @@ D 4POS 2MM spacing
 K Header Connector
 $ENDCMP
 #
-$CMP TESTPOINT_50MILSQ
-D Testpoint 50mil Square
-$ENDCMP
-#
-$CMP USB4085-GF-A
-D USB Type-C Connector
-K USB Connector Type-C
-$ENDCMP
-#
 #End Doc Library

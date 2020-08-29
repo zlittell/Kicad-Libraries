@@ -1,0 +1,27 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP .01uF
+D CAP CER .01uF 50V X7R 0402
+K Ceramic Capacitor
+F ~
+$ENDCMP
+#
+$CMP 0.1uF
+D CAP CER 0.1UF 25V X7R 0402
+K Ceramic Capacitor
+F ~
+$ENDCMP
+#
+$CMP 1uF
+D CAP CER 1UF 25V X5R 0603
+K Ceramic Capacitor
+F ~
+$ENDCMP
+#
+$CMP 4.7uF
+D CAP ALUM ELECTROLYTIC 4.7UF 20% 25V SMD
+K Electrolytic Capacitor
+F ~
+$ENDCMP
+#
+#End Doc Library
